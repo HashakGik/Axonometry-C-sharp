@@ -1,0 +1,5 @@
+*~
+Axonometry/obj
+Axonometry/bin/Debug
+Axonometry/bin/Release/*
+!Axonometry/bin/Release/Axonometry.exe
